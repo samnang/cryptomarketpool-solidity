@@ -6,6 +6,8 @@ This is a collection of solidity examples that I practiced while I was learning 
 
 Almost all smart contracts have tests with them, so feel free to play around with them to understand more about Solidity programming language or business logic in the contract itself.
 
+
+STEP 1: Installation and environmental setup.
 ## How to Run
 
 ```sh
@@ -13,6 +15,7 @@ $ npm install
 $ npx hardhat test
 ```
 
+STEP 2: solidity bases.
 ## Getting Started with Solidity
 
 1. [Data types](contracts/getting_started_with_solidity/01_data_types/)
@@ -40,6 +43,7 @@ $ npx hardhat test
 23. [Libraries](contracts/getting_started_with_solidity/23_libraries/)
 24. [Interface](contracts/getting_started_with_solidity/24_interface/)
 
+STEP3: Solidity smart contract projects to build yourself.
 ## Sample Apps
 
 1. [Sample Contract](contracts/sample_apps/01_sample_contract/)
@@ -55,6 +59,7 @@ $ npx hardhat test
 11. [Flash Loan](contracts/sample_apps/11_flash_loan/). (See more [resources](https://github.com/samnang/flash-loan-examples))
 12. [Uniswap - Simple Swap](contracts/sample_apps/12_uniswap_simple_swap/)
 
+STEP4: Advance frontend and backend(smart contract) projects.
 ## Road to Web3
 
 1. [NFT Smart Contract ECR-721](contracts/road_to_web3/week_01/)
